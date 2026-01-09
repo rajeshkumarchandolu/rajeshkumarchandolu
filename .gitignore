@@ -1,0 +1,32 @@
+# macOS-specific files
+.DS_Store
+.Apple*
+Thumbs.db
+ehthumbs.db
+
+# IDE-specific files
+.idea/
+*.iml
+
+# Backup files
+*.bak
+
+# Other common ignores
+node_modules/
+dist/
+build/
+logs/
+*.log
+
+# Ai models and outputs
+.claude/
+
+# VS Code
+.vscode/
+
+# Environment variables
+.env*
+
+# Temporary files
+*.tmp
+tmp/
