@@ -28,12 +28,16 @@ Currently, I'm designing fault-tolerant block storage solutions at **Oracle Clou
 
 ```javascript
 const rajesh = {
-    currentRole: "Platform Engineer @ Oracle Cloud Infrastructure",
+    currentRole: "Senior Software Engineer @ Oracle Cloud Infrastructure",
     focus: [
-        "Building next-gen block storage infrastructure at scale",
-        "Optimizing NVMe-oF target servers for high-performance workloads",
-        "Designing fault-tolerant architectures",
-        "Auto-tuning solutions to eliminate noisy neighbor problems"
+        "Volume Creation Performance at Scale (100RPS initiative)",
+        "Block Storage Workflow Rate Limiting & Prioritization",
+        "Compute Aligned Fault Domains (zero-downtime deployments)",
+        "Block Storage Backup Pipeline Optimization (30% time reduction)",
+        "NVMe Attachment APIs with multipath support",
+        "AArch64 Architecture Support (ARM64 enablement)",
+        "Dynamic Performance Scaling with autotuning",
+        "iSCSI Login Path Enhancements"
     ],
     interests: {
         technologies: ["Distributed Systems", "Cloud Infrastructure", "Storage Protocols"],
@@ -41,9 +45,12 @@ const rajesh = {
         architectures: ["Microservices", "Fault-Tolerant Systems", "High-Performance Computing"]
     },
     achievements: [
-        "Reduced infrastructure footprint from 4 racks to 3 while maintaining fault tolerance",
-        "Enabled ARM64 architecture support with automated CI/CD",
-        "Built systems serving millions of OCI customers"
+        "Reduced deployment window from 7 days to 1 day with fault domain enhancements",
+        "Enabled ARM64 support, leveraging strategic Ampere contract for cost reduction",
+        "Optimized backup throughput with tenant-specific buckets and 16KB chunk sizing",
+        "Implemented circuit breaker pattern reducing blast radius of downstream failures",
+        "Delivered 100RPS volume creation with predictive pre-creation and adaptive cloning",
+        "Built systems serving millions of OCI customers with high availability"
     ]
 };
 ```
@@ -92,7 +99,7 @@ const rajesh = {
 
 <p style="text-align: center;">
   Want to know more about my professional journey?<br>
-  Check out my <b><a href="./resume/Rajesh_Resume.pdf">resume</a></b> for detailed work experience and achievements.
+  Check out my <b><a href="./resume/resume.pdf">resume</a></b> for detailed work experience and achievements.
 </p>
 
 ---
@@ -112,7 +119,7 @@ const rajesh = {
   <a href="mailto:rajeshkumarchandolu@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://www.linkedin.com/in/rajeshkumarchandolu">
+  <a href="https://www.linkedin.com/in/rajeshchandolu">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/rajeshkumarchandolu">
